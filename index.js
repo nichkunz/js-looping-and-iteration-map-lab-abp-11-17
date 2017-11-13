@@ -14,7 +14,7 @@ function lowerCaseDrivers(drivers){
 
 const nameToAttributes = drivers.map(function(driver) {
   return Object.assign({}, driver, { firstName: driver.split(" ")})
-}
+})
 
 
 // function nameToAttributes(drivers){
