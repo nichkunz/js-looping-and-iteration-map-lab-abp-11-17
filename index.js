@@ -3,10 +3,10 @@ function lowerCaseDrivers(drivers, lowerCaseDrivers){
 
 }
 
-function nameToAttributes() {
+function nameToAttributes(drivers.split(" "), ) {
 
 }
 
 function nameToAttributes() {
-  
+
 }
