@@ -11,7 +11,7 @@ function nameToAttributes(drivers){
     Object.assign({}, driver, {driver[0] : driver[1];
   })
 }
-
-function nameToAttributes(drivers) {
-
-}
+// 
+// function nameToAttributes(drivers) {
+// 
+// }
