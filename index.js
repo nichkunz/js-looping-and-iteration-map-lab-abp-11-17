@@ -1,5 +1,5 @@
 // Code your solution in this file.
-function lowerCaseDrivers(drivers, lowerCaseDrivers){
+function lowerCaseDrivers(drivers){
   const drivers = .map(lowerCaseDrivers, function(lCase){
     return lCase.name.toLowerCase();
   })
